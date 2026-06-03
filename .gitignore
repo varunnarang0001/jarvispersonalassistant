@@ -1,0 +1,14 @@
+# Credentials and Local Keys
+.env
+
+# Audio Temp Cache
+*.mp3
+*.wav
+
+# Python Compilation Scrap
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local IDE Configuration
+.vscode/
