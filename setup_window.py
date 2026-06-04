@@ -15,7 +15,7 @@ def ensure_environment():
         
     # Build a dedicated initialization frame if the environment is empty
     root = tk.Tk()
-    root.title("JARVIS OS - Environment Setup")
+    root.title("JARVIS")
     root.geometry("550x320")
     root.configure(bg="#050505")
     root.resizable(False, False)

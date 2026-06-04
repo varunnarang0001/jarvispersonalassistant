@@ -19,7 +19,7 @@ class JarvisHUD:
     def __init__(self, start_ai_engine_callback):
         """Initializes the graphical user interface with an animated voice sphere."""
         self.root = tk.Tk()
-        self.root.title("JARVIS OS - Core Engine")
+        self.root.title("JARVIS")
         self.root.geometry("700x850")
         self.root.configure(bg="#050505")  # Deep OLED Black
         
